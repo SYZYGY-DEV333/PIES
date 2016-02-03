@@ -1,8 +1,8 @@
 #!/usr/bin/env python
-
-# ------------------------------------------------------------------------
-# SYZYGY-DEV333 TCP PORT SCANNER
-# ------------------------------------------------------------------------
+# PIES v1.1
+# SYZYGY-DEV333
+# Simple TCP port scanner in Python
+# Apache Version 2
 
 from socket import *
 import sys, time
