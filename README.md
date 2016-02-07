@@ -1,3 +1,5 @@
+[![Stories in Backlog](https://badge.waffle.io/SYZYGY-DEV333/PIES.svg?label=backlog&title=Unresolved)](http://waffle.io/SYZYGY-DEV333/PIES) [![Stories in Done](https://badge.waffle.io/SYZYGY-DEV333/PIES.svg?label=done&title=Resolved)](http://waffle.io/SYZYGY-DEV333/PIES)
+
 # PIES
 ## Port Internet Exploit Scanner
 
